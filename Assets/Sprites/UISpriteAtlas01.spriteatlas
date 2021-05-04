@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UISpriteAtlas01
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7c535c7c949fbf24c83784ecfbdd600b, type: 3}
+    - {fileID: 2800000, guid: 6a4f994736c2e2d4ebe14dd3684a4eae, type: 3}
+    - {fileID: 2800000, guid: 3666794bcf40b064bace331860f87c8c, type: 3}
+    - {fileID: 2800000, guid: 2390ce81b1fab2c48992423f47c9860e, type: 3}
+    - {fileID: 2800000, guid: b81de44f7733ca64e95b52a00d5a29c4, type: 3}
+    - {fileID: 2800000, guid: 86f00ad30fb211041af28b44d8c94b04, type: 3}
+    - {fileID: 2800000, guid: d924d940279a3a44b89256f411ab3c34, type: 3}
+    - {fileID: 2800000, guid: 948b63d8ee75f5146a71c087c34b9965, type: 3}
+    - {fileID: 2800000, guid: d56fee46dd1de6543b33c9e5b278d5f1, type: 3}
+    - {fileID: 2800000, guid: db9087211124c784ebf741c10ba3e2b6, type: 3}
+    - {fileID: 2800000, guid: 38a884edd8c2efa4eb3bd1656afa7f16, type: 3}
+    - {fileID: 2800000, guid: a504845403f58fe46a4218ae1e1bc0d8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d924d940279a3a44b89256f411ab3c34, type: 3}
+  - {fileID: 21300000, guid: db9087211124c784ebf741c10ba3e2b6, type: 3}
+  - {fileID: 21300000, guid: 2390ce81b1fab2c48992423f47c9860e, type: 3}
+  - {fileID: 21300000, guid: 86f00ad30fb211041af28b44d8c94b04, type: 3}
+  - {fileID: 21300000, guid: a504845403f58fe46a4218ae1e1bc0d8, type: 3}
+  - {fileID: 21300000, guid: d56fee46dd1de6543b33c9e5b278d5f1, type: 3}
+  - {fileID: 21300000, guid: 6a4f994736c2e2d4ebe14dd3684a4eae, type: 3}
+  - {fileID: 21300000, guid: 948b63d8ee75f5146a71c087c34b9965, type: 3}
+  - {fileID: 21300000, guid: 3666794bcf40b064bace331860f87c8c, type: 3}
+  - {fileID: 21300000, guid: 7c535c7c949fbf24c83784ecfbdd600b, type: 3}
+  - {fileID: 21300000, guid: 38a884edd8c2efa4eb3bd1656afa7f16, type: 3}
+  - {fileID: 21300000, guid: b81de44f7733ca64e95b52a00d5a29c4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - UISpriteInputFistUnpressed256x256
+  - UISpriteInputPause64x64
+  - UISpriteInputDownLeft64x64
+  - UISpriteInputFistPressed256x256
+  - UISpriteInputUpRight64x64
+  - UISpriteInputPrevious64x64
+  - UISpriteButtonPressed96x96
+  - UISpriteInputNext64x64
+  - UISpriteButtonUnpressed96x96
+  - UISpriteButtonChargeUpBar128x128
+  - UISpriteInputUpLeft64x64
+  - UISpriteInputDownRight64x64
+  m_Tag: UISpriteAtlas01
+  m_IsVariant: 0
